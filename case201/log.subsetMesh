@@ -1,0 +1,32 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  3.0.1                                 |
+|   \\  /    A nd           | Web:      www.OpenFOAM.org                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : 3.0.1-d8a290b55d28
+Exec   : subsetMesh -overwrite c0 -patch floatingObject
+Date   : May 30 2016
+Time   : 15:14:47
+Host   : "evankielley-VirtualBox"
+PID    : 5077
+Case   : /home/evankielley/OpenFOAM/evankielley-3.0.1/run/case201
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+Reading cell set from c0
+
+Adding exposed internal faces to patch floatingObject
+
+Writing subsetted mesh and fields to time 0
+
+End
+

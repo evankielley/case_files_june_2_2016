@@ -1,0 +1,95 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  3.0.1                                 |
+|   \\  /    A nd           | Web:      www.OpenFOAM.org                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : 3.0.1-d8a290b55d28
+Exec   : setFields
+Date   : May 30 2016
+Time   : 16:41:27
+Host   : "evankielley-VirtualBox"
+PID    : 8503
+Case   : /home/evankielley/OpenFOAM/evankielley-3.0.1/run/case204
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+Reading setFieldsDict
+
+Setting field default values
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+
+Setting field region values
+    Adding cells with center within boxes 1((-100 -100 0) (100 100 0.033333))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.033333) (100 100 0.066667))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.066667) (100 100 0.1))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.1) (100 100 0.133333))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.133333) (100 100 0.166667))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.166667) (100 100 0.2))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.2) (100 100 0.233333))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.233333) (100 100 0.266667))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.266667) (100 100 0.3))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.3) (100 100 0.333333))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.333333) (100 100 0.366667))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.366667) (100 100 0.4))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.4) (100 100 0.433333))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.433333) (100 100 0.466667))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+    Adding cells with center within boxes 1((-100 -100 0.466667) (100 100 0.5))
+    Setting internal values of volScalarField alpha.air
+    Setting internal values of volScalarField alpha.other
+    Setting internal values of volScalarField alpha.water
+
+End
+
